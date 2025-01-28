@@ -1,3 +1,3 @@
 # coding-demo
 Initialisation
-Author-Amaterasu_
+Author-Amaterasu_(Izanagi078)
